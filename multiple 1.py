@@ -1,0 +1,11 @@
+a=5
+b=[3,5,7,4,"ps",[9,6,2],1,8]
+print(b[4])
+print(b[5][1])
+a=6
+b=[4,[3,5,7,[1,9,0]]]
+print(b[1][3][1])
+print(b[0])
+a='pen'
+b=['ball','eye','pencil']
+print(b[1])

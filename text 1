@@ -1,0 +1,72 @@
+data types:
+int
+float
+double
+char
+
+||-flaw division
+**=exponential
+
+test conditioning:
+if
+else
+if else
+elif
+
+If STATEMENT
+if (condition)=
+              a=int(input('input the nuber to check positive or negetive'))
+if a>0:
+    print('given number is positive')
+if a<0:
+    print('given number is negetive')
+    
+a=float(input('input the nuber to check positive or negetive'))
+if a>0:
+    print('a, is positive')
+if a<0:
+    print('a, is negetive')
+
+ELSE STATEMENT:
+else (condition)=
+             a=float(input('input the nuber to check positive or negetive'))
+if a>0:
+    print('a, is positive')
+else:
+    print('a,is negetive')
+    
+ELIF STATEMENT:
+ elif (condition)=
+               m=int(input('enter marks'))
+if(m>90):
+      print('grade 1')
+elif(m>80):
+      print('grade 2')
+elif(m>70):
+      print('grade 3')
+elif(m>60):
+      print('grade 4')
+elif(m>45):
+      print('grade 5')
+else:
+      print('fail')
+LOOP(while) STATEMENT;
+while condition=
+            a=-10000
+while(a<=10):
+    print(a)
+    a=a+1
+
+
+RELATIONAL OPERATINS:
+>
+<
+>=
+<=
+!=
+==
+
+               
+
+              
+
